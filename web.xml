@@ -1,0 +1,10 @@
+<web-app>
+    <servlet>
+        <servlet-name>HashServlet</servlet-name>
+        <servlet-class></servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HashServlet</servlet-name>
+        <url-pattern>/HashServlet</url-pattern>
+    </servlet-mapping>
+</web-app>
